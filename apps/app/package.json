@@ -15,7 +15,7 @@
     "@copilotkit/react-ui": "next",
     "@copilotkit/runtime": "next",
     "@copilotkitnext/shared": "next",
-    "next": "16.1.6",
+    "next": "16.4.1",
     "react": "^19.2.4",
     "react-dom": "^19.2.4",
     "react-rnd": "^10.5.2",
